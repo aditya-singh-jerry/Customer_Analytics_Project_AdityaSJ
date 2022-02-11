@@ -1,4 +1,7 @@
-# Customer_Analytics_Project_AdityaSJ
-•A holistic Customer analytics project using Python, Statistics, ML to apply Segmentation ,Targeting, Placement technique to the dataset, to device solution to the dataset of a large US based retailer.
- • Used SQL for Data Preprocessing, Python (Numpy, Pandas), Statistics-ML tools like k means, PCA analysis, Logistic regression, to predict purchase probability, brand choice
- • Deviced a complete plan to target customers, increase revenue &amp; sales.
+#Customer Analytics Using Python, Machine learning
+
+1.Created holistic customer analytics project using Python applying Segmentation ,Targeting, Positioning (STP) model, to devise solution for a large retail store.
+
+2.Used Python (Numpy, Pandas, Matplotlib, Sklearn, Seaborn) & Statistics-ML algorithms like k-means clustering , PCA analysis, Logistic regression, to predict purchase probability, brand choice probability & purchase quantity.
+
+3.Devised a complete plan to target customers, increase revenue & sales.
